@@ -11,18 +11,28 @@ They can hold different "types".
 
 // Numbers
 
+
 // Strings
 
-// Booleans
+// Booleans: types & logic
 
-// Arrays: create, access
+// var tastesLikeApples = true
+// var isBubbly = true
 
-// Objects
+// given drink ==> apple cider or apple juice
 
-// Functions
+
+
+// Arrays: what are they? what are they good for? create, insert, access
+
+// Objects: create, access, new fields, delete fields
+
+// Functions: construct, return, undefined
 
 // Equality
 
-// Loops: for and while
+// Loops: for, while, iterate over strings, iterate over arrays
 
-// If statements
+// If statements: if, else, else if
+
+// High level idea of code execution: replacing variables, 1s and 0s

@@ -1,9 +1,8 @@
 // Number problems
 
 /*
-Convert between fahrenheight and celsius. equation is (f − 32) × 5/9 = c
+Convert from fahrenheight and celsius. equation is (f − 32) × 5/9 = c
 */
-
 
 /*
 Calculate the area of a triangle
@@ -13,13 +12,12 @@ Calculate the area of a triangle
 // String problems
 
 /*
-Rotate the string "hieveryone" 3 times (output should be onehievery)
+Check if two strings are equal
 */
 
 /*
-Rotate the string "hieveryone" n times
+Given two strings "hello" and "world", create the string "hello world"
 */
-
 
 
 // Array problems
@@ -80,6 +78,10 @@ write a function that takes in two numbers and returns the addition of them
 */
 
 /*
+Convert between fahrenheight and celsius. equations are c = (f − 32) × 5/9 and f = c * 9/5 + 32
+*/
+
+/*
 lets write a calculator!
 */
 
@@ -102,3 +104,13 @@ set person's age to 15
 print person's age
 */
 
+
+// String Challenge problems
+
+/*
+Rotate the string "hieveryone" 3 times (output should be onehievery)
+*/
+
+/*
+Rotate the string "hieveryone" n times
+*/
